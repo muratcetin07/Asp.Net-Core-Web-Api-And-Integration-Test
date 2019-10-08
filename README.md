@@ -9,4 +9,4 @@ EN: You can find how to use Restful Web Api on Asp.net Core with abstract reposi
 TR: Bu projede Abstract repository pattern ve entityframework core kullanarak Asp.Net Core restful web api kullanımı 
     projelendirilmiştir. Ayrıca projelerde integration test kullanımı örneklendirilmiştir. Integration test ile local ortamda, 
     geliştirilen web api ayağa kaldırılmadan ve veri tabanına direkt bağlanılmadan, web api sanal olarak ayağa kaldırılıp,
-    veritabanı da memory de initiaze edilerek test metotları çalıştırılması gösterilmiştir.
+    veritabanı da memory de initialize edilerek test metotları çalıştırılması gösterilmiştir.
