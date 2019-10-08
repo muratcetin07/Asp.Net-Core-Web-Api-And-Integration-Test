@@ -1,9 +1,10 @@
-# DotNetCoreRestfulWebAPI
-Restful Web Api  and MongoDB on Asp.Net Core.
+# Integration Test With RestFull Web API on Asp.net Core
 
-EN: This project example shows us how to use Restful Wep Api on Asp.Net Core. 
-Also this project shows us get, post, update and delete (CRUD) operations on a MongoDB database. 
-The project developed with abstract data acess approach. 
 
-TR: Asp.Net Core Restful Wep API Kullanımı. Bu projede Asp.Net Core ve MongoDB veritabanı kullanılarak restful 
-web api geliştirme yapıldı. Ayrıca data katmanı soyutlanarak repository pattern kullanıldı.
+EN: You can find how to use Restful Web Api on Asp.net Core with abstract repository pattern and entityframework core on this project. 
+In addition to that the project shows us how to use integration test approach on a restful web service on asp.net core.
+
+TR: Bu projede Abstract repository pattern ve entityframework core kullanarak Asp.Net Core restful web api kullanımı 
+    projelendirilmiştir. Ayrıca projelerde integration test kullanımı örneklendirilmiştir. Integration test ile local ortamda, 
+    geliştirilen web api ayağa kaldırılmadan ve veri tabanına direkt bağlanılmadan, web api sanal olarak ayağa kaldırılıp,
+    veritabanı da memory de initiaze edilerek test metotları çalıştırılması gösterilmiştir.
